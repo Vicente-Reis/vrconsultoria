@@ -20,5 +20,18 @@ Tenha um e-mail corporativo personalizado com o seu nome. E-mail profissional, a
 
 **Comece aqui o seu teste grátis: [workspace.vicentereis.com](https://workspace.vicentereis.com)**
 
-**Start your free trial here: [workspace.vicentereis.com](https://workspace.vicentereis.com)**
+**Start your free trial here: [workspace.vicentereis.com](https://workspace.vicentereis.com)**.
+
+---
+
+Os planos Business Starter, Business Standard e Business Plus podem ser comprados para no máximo 300 usuários. Não há um mínimo ou máximo de usuários nos planos Enterprise.
+
+Os clientes do Google Workspace podem ter acesso a recursos extras por um período limitado.
+
+**Oferta disponível apenas para novos clientes do Google Workspace. Este preço inicial está disponível somente para os primeiros 20 usuários adicionados, por 12 meses. O preço padrão vai ser aplicado a todos os usuários após esse período. O preço real por usuário pode variar em cerca de 0,01% devido a arredondamentos. O valor final será mostrado antes da conclusão da assinatura.**
+
+**O Google Workspace oferece um armazenamento em pool flexível de acordo com o número de usuários, compartilhado com toda a organização. Saiba como comprar mais armazenamento para sua organização na [Central de Ajuda](https://support.google.com/a/answer/1726914).**
+
+Confira agora tudo que está incluído no Google Workspace.
+
 
