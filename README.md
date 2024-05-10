@@ -28,9 +28,9 @@ Os planos Business Starter, Business Standard e Business Plus podem ser comprado
 
 Os clientes do Google Workspace podem ter acesso a recursos extras por um período limitado.
 
-**Oferta disponível apenas para novos clientes do Google Workspace. Este preço inicial está disponível somente para os primeiros 20 usuários adicionados, por 12 meses. O preço padrão vai ser aplicado a todos os usuários após esse período. O preço real por usuário pode variar em cerca de 0,01% devido a arredondamentos. O valor final será mostrado antes da conclusão da assinatura.**
+**1) Oferta disponível apenas para novos clientes do Google Workspace. Este preço inicial está disponível somente para os primeiros 20 usuários adicionados, por 12 meses. O preço padrão vai ser aplicado a todos os usuários após esse período. O preço real por usuário pode variar em cerca de 0,01% devido a arredondamentos. O valor final será mostrado antes da conclusão da assinatura.**
 
-**O Google Workspace oferece um armazenamento em pool flexível de acordo com o número de usuários, compartilhado com toda a organização. Saiba como comprar mais armazenamento para sua organização na [Central de Ajuda](https://support.google.com/a/answer/1726914).**
+**2) O Google Workspace oferece um armazenamento em pool flexível de acordo com o número de usuários, compartilhado com toda a organização. Saiba como comprar mais armazenamento para sua organização na [Central de Ajuda](https://support.google.com/a/answer/1726914).**
 
 Confira agora tudo que está incluído no Google Workspace.
 
